@@ -30,7 +30,7 @@ export default function HealthRecords({ navigation }) {
               height={160}
               width={160}
               source={{
-                uri: "https://s3-alpha-sig.figma.com/img/d9c5/69cb/75625053170581cad7e84909828d2a1f?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kq~orwTvlGt40U4XgeigVG~huSN~DLWCwzOyJ9cYy~MPal0mZHSwyCRokfwbV5fpXy-ISwBiisp3lzxs58piDRJi2TLub29VUGPgHnxMXuDOmIXIkJxcqZUiz0ntGehuWX3akiEoVlqG~iYKUFO7mdbTEDPI-0GKSuplBHD7saUud~3TPHsHBr68PWPNRp08ACUF0kBAhBwISY4L0n8cw96LWYOfVciX5X~CaKtyea8rKxQRg6kFVtXKD1RyRsyZOnGSQb2ZVZ6IgKeS3NuGRrym0b4TyxWd8e8NWNNIAyMW4zRND5ZLIf4ultROlAiVWfsIhlDUbRG0NRjkt12Syg__",
+                uri: "https://s3-alpha-sig.figma.com/img/d9c5/69cb/75625053170581cad7e84909828d2a1f?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=CHiraIMVemErf77Nt~ZrwRXY-sF5V3osGgElmWVA8vNvSZ~SFjTVMoqMNZDLrfpt1uJ-HkadbS87khQSnn1PxaH3MQQI5dj8W4gTCBUX~XHX6FFLjvh4FhRznBxgpE8cz~2fgIQuO8XAd3mUCdx9VBpFlzGphCC6Gn1CwBUlmL2cfmPAeciDsmcYPZalzHc3k4DzsnQOiASE1UKAONKk2Y9UM~j5ltt98amKDNEVejF6W26IYyaCTBWeF9lwR95j0iENjYPk9LBFYP4jxLVLDGvY62XCO4LhCRSELVFVYfCCwXuiqrgMCHP86xbPNW6oVAT7igowT85YMAGcRGr-yw__",
               }}
             />
             <View style={styles.txt_container}>
@@ -54,7 +54,7 @@ export default function HealthRecords({ navigation }) {
                   width={width - 40}
                   height={200}
                   source={{
-                    uri: "https://s3-alpha-sig.figma.com/img/a8fb/27ac/69491fb6bef4f8bee2ebd824a2704c7a?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YPCpYJkZDMHGRW7sTgm3ziaQ1v0fsjaRxRbvghOAKzi9lEgQ3fls52Hv6lD0gXi8YCo8eCwoKPpfqJS3nLOwsJKwR90VClVHcahrvQjMBfzhVE9HXyqfuk-i8-4I9UEMyf-e6VtLrAIYL8oJyYzoTKx4gS2X-Ejhcot~nfnxDafFk1~8P5T8YPhxdmbMQLT9yNMasVnBl36F3LoteFc0as1k49NPEG6GCwpB39dOEWr87lHiySgCtS2QJZfULWOwM0S9sonv5hti3KsMDtETJXmkatHw1wxCuNNWPfy9xUVGIk0Hi8e1ex~PxJv6dsntmAdL4vSLqckdj~m~vMvVwA__",
+                    uri: "https://s3-alpha-sig.figma.com/img/a8fb/27ac/69491fb6bef4f8bee2ebd824a2704c7a?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UaBmA7z6BwDIsr-EPuJ00bwVmzfJLGKmbvie35kgsir~QBcWML9W2J2ENi5UN9axQDnwAVTMqqzJlf8HBzoXcEjqa8gnRz2Tfct8VbuG4-gi1S3bSaZ-p6VVqLR5VthWEwsiG6Lub6HUM6V~Ah5vl-pM7I1I-LsTm6PRU1~kKMpgHbvgnNNuQgmr8ZG78X8uemXdU~3fEJv0qJWY3Yrd6oGpzodGCfr7zX6Jwc3ZtlqguED0J-ljlZK4WFaY9LsYxuMsqClayIzC~OxqZOcgL0R80nAv2kYo~cPiooRvx8fOe5Ss5Uy3zTePd7XuGUKNxGmvsOgxo8YdlPoeIccz8A__",
                   }}
                 />
               </View>
@@ -70,7 +70,7 @@ export default function HealthRecords({ navigation }) {
                   width={width - 40}
                   height={200}
                   source={{
-                    uri: "https://s3-alpha-sig.figma.com/img/4b51/b42d/70a8a4466894e47c0e7785f0188ec0f5?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Lt4PnTt1cnpmy~p-F5~j~WJBK~CpNVW~mwvB8GlAxN0LvsSXffAmyVuGjCEOg9g5WhUwI5FbnVuwxkzRC6DDSja5gCkSQgjSAPoyYDa0ZwmbepiCBoIFSHOzLP66fGo6v5HYojUyBfd-eIMsk6pWj4a6Fl1pyzwwT8afURuK6V5Sf5XZUt2c3n-DPZ1UjMJB2OCWjXB1pc6orj5wn7Hp5RaTeSKB6kwjGBx2ZOe7umD~dE0xpVVeWXP9rUH9LnhBGr7Kf~1qWjfkO1ewd6b9czFkZ7fSqJwSoZYcwyrPgD3ueXGRr15jeHpZqXCkzAAG8GqbImMtFxuYx5Xc8UKIqg__",
+                    uri: "https://s3-alpha-sig.figma.com/img/4b51/b42d/70a8a4466894e47c0e7785f0188ec0f5?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cCFk-tm3czLZzfwdFPKjGqLPWT8SDFhGd-30BvadHGz-YCLBZnH0CupPFEB1DC0vg-A1546F1InCX-8ooDMkQyWf32rsZ84kybtuGjXuEKZihZ7jxmzGWj8i~2i4QP12bMIzuxxE0-Cj3H6xsFOWtS~L1FqokV6ZX7CkOMDk3wxQcR40u9rZgG2VH5LDzglrUzxnoK9QLWE~vQ36pzIUjf2IiH9HwFksSD6HkkNEWUmmDtq0wY5EQa2f7xokJscLTwbZvpu8f3JFRkfAelUe6y~It7gwgolCe8QAODaV2RFW4nZnhC~Hi5H8F~9PO6DErv7hzBeWN6wmWmC~vHA-2A__",
                   }}
                 />
               </View>
@@ -86,7 +86,7 @@ export default function HealthRecords({ navigation }) {
                   width={width - 40}
                   height={200}
                   source={{
-                    uri: "https://s3-alpha-sig.figma.com/img/5796/238e/ea8d18396f4836b206679c60d1114da4?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=O~q7Kvfs4A4wAcPYWnItIWFCZ5IxK5Daz91pcxr1rgS6QdwgkgKOqcOaIlghOeSWuFFZBKsJ6aAG04YCYjp-h73wJfBgOcfhThgj-R1eahVNb6G4fO5NU1Z0K8lYw5XhaR2XFr5Eod6iMv9f3XltwuzwPdxOk9l6i4CCPlV-MaAAV-Udi24D3OgO7~GTBxb5y2IwGcGax8lEA-4soZovPKU7p5dd0QNrUb3qO2BpzFEocP6AfbcVQCy-AJZmb9t0QNqdKYbV~NS7M7we~hEZtvqRABeYpx2W2pf9JLHvYHOiObUaEdp9X8zfuOIeYMIKKlAqSqjlr7MSToWFC3mf2Q__",
+                    uri: "https://s3-alpha-sig.figma.com/img/5796/238e/ea8d18396f4836b206679c60d1114da4?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UnoM3ZZx0laz4SwQ7ZqeUWWhF~rqw7OrcET7~0mQfJoh0ZNcZlU-3f9udt18eOrFe4~TpIPziPUBCEuk69ODnDey61SyXAM4DakCNUfPwmD7KS4K5SP3IUinu0x-OUurpSZRqKvaHMOBTFwxV~6YpSb5pZjb-LtzI6Axvii~7WFUoZ3B3cKIP6kBSk1TwiSip8UyY6I036u3PmJFmNTo5xLzxYVWwK96XnbZUiF82u3d58mju770r8BGGuxvFuAwlBdJiaviGppiDwZ-kCbr5ij7fp6VzwyR1FlNTLruergADEzMBJniTTbq54a4uwoD1LAOaTwn5IeV509VwTobLw__",
                   }}
                 />
               </View>
