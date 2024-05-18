@@ -94,12 +94,12 @@ export default function Login({ navigation }) {
           <Image
             style={styles.big_cat}
             source={{
-              uri: "https://s3-alpha-sig.figma.com/img/c30c/e538/219f24d478fbec24c03259d4bd5ae829?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DQJRmm5UOG2sk7kxj56Ly6LhSBn0APT-VWHujtXrUwdVsKkokrXWtfqUPeYhWqZ5sz7k-R8k8RsqT7VblL-jVmVHr06h9L5ACzJ25XjqWhA5pigSRsOIDgdp0o4kuCIOb~wf-qoauzIGAZYr563SYkMJFY2deDD33MdJW9jKIAJvpuQLHWGUP4MGAXyDmkvzQPxSMCaQWQ8IyjhO~L4r6p3OFy7wCpQusNBs3rZCIl8mfQniedAiESotg7xi5lyRDm0QGj8jAudEI9B0xgP7xgXY7gCdbayKe-Vgli7o7dUlBR6wrtyjA6b8tSIIrTpWgyP3tKMAMnwShOZ7NlfmPg__",
+              uri: "https://s3-alpha-sig.figma.com/img/c30c/e538/219f24d478fbec24c03259d4bd5ae829?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=b3JKPjQtYKWsYv7MV1IaH3ILlpuNL92xv2UafOslmFC7NyGl9waWLzKMJyWAGkFfSrKv~DRAs-YXb0Z358v4yidgytddu4HPq34deTdDdHNagXfwChd2WrWdZtmYvlyJwnocgA7bfQ7okHysBYpo78n3Zay15Zri3W46YZNswyYrGOREQDK4oXrih1IqlfRqVjU71UcCez2GQq5l3QgQbd8zJvJoB3rgKKmShKwsq~xb6aJv-5NVM03f2EI~4oAPsTYLJUsu2921vwxrXNNAZCkn-zxBhrgQuwyNHq7ft0uuacWYnx6e1Aauo1-dZR6YmHARxQ8NLvxsaAw20AMvhA__",
             }}
           />
         </View>
         <View style={styles.login_card}>
-          <Text style={styles.login_head_txt}>Login</Text>
+
           <View style={styles.emailPhone_inp}>
             <TextInput
               onChangeText={(txt) => setEmail(txt)}
@@ -133,7 +133,7 @@ export default function Login({ navigation }) {
               height={20}
               width={20}
               source={{
-                uri: "https://s3-alpha-sig.figma.com/img/8e42/4139/9baefbe8f8feffab0fe67682e140e1b1?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ESW8UbJ1KsMxJ~QthmR5v-uM4iM4fA9Z-Hy2rIgp6m6-c~EIv8P7tiQ~h66OiXaFYZJS3lVWx4SmNNA6B38N6h9yrykBQSJPj~vbNJgB5mwvscd8T1df3XGAub8S-aM-yyZs4ti4AqGbijxD-np42EcRCMCNaWoTZzwxyniDv42z0eNsY4QKdVZEJQSbkFSx3d40CmmZ36XxWaJULAHUg5oGk10jbsA5k1CaV3CFFp5auY1YLlubpV3H0o05g-VoEuouxcYZTy0NzGm-eXO6H2It281ukto0QP1mD4FdoLLrfvY~WUvxHVTtXXognIS79y8UBuPsNOhyrpYXOT36mg__",
+                uri: "https://s3-alpha-sig.figma.com/img/8e42/4139/9baefbe8f8feffab0fe67682e140e1b1?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NsqUHi6z3tnF~DHPoFJG22IFSjHoTKoPzyXqlc4bzTXnZH7Y~oWMroN9dTfZumX3iGEB0prKau3QpoTO8Dlo9LR3akNKvp6hnmajPWqWUV9QPBTu~sc~-cwZLAcb0jthcKVYh0QpBnU9CrQczvBKdSO0zOrzaWXW1zsCiqVHavNJ0pifIzKI7jSnTCLHPXWH4DPCUenxPpmy77he5pFFp4Kw0QzGJQvVCkZkoZXEvmzB1iJL9rv8vEgNxh5QaTDRI5fvyrPOZtzEbY6t61SVrMRIao3YRFjQm7~-RO8nLS83i4VHsJlcSscRhM-Fo0e-MqiqAhRt5xBejOLV3LnKNQ__",
               }}
             />
             <Text

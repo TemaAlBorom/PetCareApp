@@ -25,7 +25,7 @@ export default function Sign_in({ navigation }) {
           <Image
             height={300}
             source={{
-              uri: "https://s3-alpha-sig.figma.com/img/9ed3/4d05/457221b962a29c8c46343cb73073f452?Expires=1715558400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YynMaSK9iW5f9tKq1wBgaHhMRTpuCamI8LKicc1BGebqaWe1tYKNIx1XTEjeIM6kW~yD1OJ6LVVCEVA3arZOcpllUYSO~xC9l7nOrE11NpyT6QSjIZPgy7rvogerqRgahBtbU3MwNYw2SXSQBprpWQeJSD~nPhQt8Cx0p6-efNRAK8QFa45KKEhoUPznzRpkqG~I6jW7K~l5DQ~8XMsdBqWHaNndJBT2a~s59apF870w7BTkqhxd8tWRjrz1Hnnmttq5rIe~BkHOBb~YDIg1jB86s1mzmEivqP6WEAaAljmVmg~DkhOtLCw0ggk~GH7tvJL1bS5SrDUsrsGJq24HIA__",
+              uri: "https://s3-alpha-sig.figma.com/img/9ed3/4d05/457221b962a29c8c46343cb73073f452?Expires=1716768000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=iHCngpbH9Bs3l6Y9nIeyXD5hTof1rWfK6eMx0CpqcenXh6wzIKmiyk2nzD9lFjHfLfTgra71U0Yxp5DTT-ghFs17hYYddLxWse~qUqWegY~oIUyallJ9sgzidtVErrNql6JJteGT0WLyyYyqz8UjCe8bMNJy2gbx4a0aBQFylRkwvPTYe2gRhTnQhBZ6BSJM8vyQTX8syZJxPLTy6qTES5zr2s7sd94rE9jI5rpq3PczJGXBdRzZVCYv4UQRasAmxMQZJ1ZUk2LA4XwMALV3rGLtgLOIc9RhAL~z8qyF3Dn-1qqfoCHvyYWHxwEoOTXlksEmFjKci88Uu13C5JEImQ__",
             }}
           />
         </View>
