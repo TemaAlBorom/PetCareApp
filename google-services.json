@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "258186085281",
+    "project_id": "temaa-auth",
+    "storage_bucket": "temaa-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258186085281:android:3c3102d435bda64b4ac1e0",
+        "android_client_info": {
+          "package_name": "com.mimo20032004.temaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258186085281-o0lmvf8259kmrcnovvamf4qq7ue9oc2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimo20032004.temaa",
+            "certificate_hash": "d5a175b4cae6042e5870db7dc3c9ff654cd5f52a"
+          }
+        },
+        {
+          "client_id": "258186085281-v19hdnuqrb6mplemvl2gjo02htfl8umn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimo20032004.temaa",
+            "certificate_hash": "8e75f0f8e0ac00d1682e174eab7d972ee7a50360"
+          }
+        },
+        {
+          "client_id": "258186085281-0hrtmkb4nvp39lck2ni7ruhpkg5sh34r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCngRMt4IT3mUKMs8pdatfEBoiY4c40ubk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258186085281-0hrtmkb4nvp39lck2ni7ruhpkg5sh34r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
